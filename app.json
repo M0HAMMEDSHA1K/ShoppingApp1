@@ -1,4 +1,11 @@
 {
   "name": "ShoppingApp",
-  "displayName": "ShoppingApp"
+  "displayName": "ShoppingApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "2b94ed71-33f9-46ac-92c0-b7e300388bf5"
+      }
+    }
+  }
 }
